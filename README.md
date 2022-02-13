@@ -11,3 +11,9 @@ Node Twitter est un essai de copier l'application twitter
 ## Persistence des donnees
 MongoDB
 
+## Setup
+Pour lancer le projet en local:
+```
+$ npm i
+$ npm start
+```
