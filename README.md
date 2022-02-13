@@ -1,5 +1,7 @@
 # Node Twitter
 
+[![version](https://img.shields.io/badge/version-1.0.0-yellow.svg)](https://semver.org)
+
 Node Twitter est un essai de copier l'application twitter
 
 ## Technologies utilisees
