@@ -1,9 +1,10 @@
 const express = require('express');
 const morgan = require('morgan');
-const app = express();
-const path = require('path');
 const index = require('./routes');
+const path = require('path');
+require('./database');
 
+const app = express();
 const port = process.env.PORT || 3000;
 
 app.set('views', path.join(__dirname, 'views'));
